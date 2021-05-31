@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revadike&langs_count=8&layout=compact&theme=tokyonight)
-<img align="right" height=200 src="https://avatars.githubusercontent.com/u/4411977?v=4" />
-![Revadike's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Revadike&theme=tokyonight)
-![Revadike's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revadike&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight)
+
+![Revadike's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revadike&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&line_height=24)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revadike&langs_count=8&layout=compact&theme=tokyonight)
+<!-- <img align="right" height=190 border=1 src="https://avatars.githubusercontent.com/u/4411977?v=4" /> -->
+<!-- ![Revadike's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Revadike&theme=tokyonight&line_height=300) -->
