@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <a href="https://revadike.com">
   <p align="left">
-    <img src="https://github-readme-stats-revadike.vercel.app/api?username=Revadike&show_icons=false&hide=stars,commits,prs,issues,contribs&hide_rank=true&disable_animations=false&theme=tokyonight&line_height=145&custom_title=  👋 Hello world, I am Revadike  ">
-    <img src="https://github-readme-stats-revadike.vercel.app/api?username=Revadike&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&line_height=24&custom_title=GitHub Stats">
-    <img src="https://github-readme-stats-revadike.vercel.app/api/top-langs/?username=Revadike&langs_count=8&layout=compact&theme=tokyonight&line_height=24">
-    <img src="https://github-readme-stats-revadike.vercel.app/api/wakatime?username=Revadike&langs_count=8&layout=compact&theme=tokyonight&line_height=24">
+    <img src="https://github-readme-stats-final.vercel.app/api?username=Revadike&show_icons=false&hide=stars,commits,prs,issues,contribs&hide_rank=true&disable_animations=false&theme=tokyonight&line_height=145&custom_title=  👋 Hello world, I am Revadike  ">
+    <img src="https://github-readme-stats-final.vercel.app/api?username=Revadike&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&line_height=24&custom_title=GitHub Stats">
+    <img src="https://github-readme-stats-final.vercel.app/api/top-langs/?username=Revadike&langs_count=8&layout=compact&theme=tokyonight&line_height=24">
+    <img src="https://github-readme-stats-final.vercel.app/api/wakatime?username=Revadike&langs_count=8&layout=compact&theme=tokyonight&line_height=24">
   <!--   <img height=190 src="https://avatars.githubusercontent.com/u/4411977?v=4" />  -->
   </p>
 </a>
